@@ -1,5 +1,5 @@
 ---
-title: Gaming List
+title: Playing List
 subtitle: a list of games I recommend
 layout: "page"
 icon: fa-book
