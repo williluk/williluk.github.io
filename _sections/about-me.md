@@ -4,8 +4,7 @@ icon: fa-user
 order: 3
 ---
 
-[GET SOME IMAGE FROM THE JUNE TRIP.]: #
-![](/assets/images/about-me-image.jpg "Placeholder")
+![](../images/about-me-image.jpg "Placeholder")
 
 I'm Luke Williams, independent game developer. I've experimenting with every aspect of game development, from writing to art, audio to design.
     On the engineering side, I've done systems programming, shaders, and engine programming. I also have a background in research, studying how XR applications

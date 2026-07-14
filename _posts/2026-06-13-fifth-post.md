@@ -8,6 +8,3 @@ This was a small project I worked on while I was experimenting more in depth wit
 
 
 There were many tough challenges, particularly correcting pixel swimming with camera motion and handling water reflections. This implementation uses reflection probes, which involves patching the Godot Engine to handle custom camera frustrums. Despite the headache, Godot has rapidly become my new favorite engine due primarily to how slim it is to run and how much of a boon open source can be.
-
-<iframe frameborder="0" title="Fixed Signals by Luke Williams" allowfullscreen="" width="1075" height="620" src="https://web.engr.oregonstate.edu/~williluk/Build/index.html">
-                    </iframe>
