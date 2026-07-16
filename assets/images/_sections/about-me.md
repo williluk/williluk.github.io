@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fa-user
-order: 3
+order: 4
 ---
 
 ![](../images/about-me-image.jpg "Placeholder")
