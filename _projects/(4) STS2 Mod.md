@@ -1,0 +1,16 @@
+---
+name: Slay the Spire 2 Mod
+tools: [C#, Godot]
+image: assets/images/port-sts-mod.jpg
+description: A mod for the popular game Slay the Spire 2, expanding its new multiplayer feature with more cards and relics that facility communication and teamwork.
+---
+
+Earlier this year, I was fortunate to attend a talk at the inaugural PIGCON by MegaCrit's Ed Lu and Jose Pacio. The talk was about Slay the Spire 2, specifically the transition to Godot for their engine and implementation of multiplayer. It was fascinating to listen to, and it gave me the opportunity to shake their hands and let them know that it was exactly those two features that inspired me to mod a game for the first time.
+
+<p class="text-center">
+{% include elements/button.html link="https://steamcommunity.com/sharedfiles/filedetails/?id=3759339369" text="See it on the Steam Workshop!" %}
+</p>
+
+The core idea of this mod was to expand the existing multiplayer system by adding more character specific cards and relics. From that point of inspiration, I pushed myself to learn the principals of modding for the first time. The process of working to a high standard of quality in someone else's codebase meant that problems were hard to research, and I relied heavily on tracing the existing executions and engaging with the rich modding community online.
+
+The joy, however, was the ability to engage with a pristine design challenge without having to bother too much with all the padding that typically requires. I didn't have to construct data structures or clean UI in order to create something that could bring an incredible amount of joy to my friends and to hundreds of people online. The challenge of balancing good design with things like card readability, combos and balance, and the feelings and aesthetics of StS2 itself.
