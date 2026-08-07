@@ -1,7 +1,7 @@
 ---
 name: Slay the Spire 2 Mod
 tools: [C#, Godot]
-image: assets/images/port-sts-mod.jpg
+image: ../assets/images/port-sts-mod.jpg
 description: A mod for the popular game Slay the Spire 2, expanding its new multiplayer feature with more cards and relics that facility communication and teamwork.
 ---
 

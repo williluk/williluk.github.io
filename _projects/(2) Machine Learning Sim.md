@@ -1,7 +1,7 @@
 ---
 name: Machine Learning Evolution Simulation
 tools: [JavaScript, HTML, CSS]
-image: assets/images/port-ai-bugs.jpg
+image: ../assets/images/port-ai-bugs.jpg
 description: A web based simulation of bugs optimizing their survival through improving their internal neural network.
 ---
 

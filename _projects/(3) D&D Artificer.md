@@ -1,7 +1,7 @@
 ---
 name: D&D Homebrew Artificer
 tools: [Markdown]
-image: assets/images/port-artificer.jpg
+image: ../assets/images/port-artificer.jpg
 description: This is a homebrew rework of the artificer class to add more complexity, creativity, and a real sense of innovating to the game.
 ---
 

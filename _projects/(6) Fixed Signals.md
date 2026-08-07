@@ -1,7 +1,7 @@
 ---
 name: Fixed Signals
 tools: [Unity, C#]
-image: assets/images/port-fixed-signals.jpg
+image: ../assets/images/port-fixed-signals.jpg
 description: Web-based puzzle game created in partnership with the NSF and Oregon State University's Microelectronics staff.
 ---
 During my last year of college, I was fortunate enough to work as a Research Assistant at OSU's Extended Reality Laboratory. During that time, I worked on about half a dozen projects, including a few as a project lead, culminating in Fixed Signals. This web game wasn't my largest undertaking, but it was unique in that I had extensive creative control coupled with responsibility to the lab and our partners. The task was to create something that encouraged high schoolers and college students to be more interested in microelectronics. I am incredibly proud of the result.
