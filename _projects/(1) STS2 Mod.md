@@ -4,6 +4,7 @@ tools: [C#, Godot]
 image: ../assets/images/port-sts-mod.jpg
 description: A mod for the popular game Slay the Spire 2, expanding its new multiplayer feature with more cards and relics that facility communication and teamwork.
 ---
+# **Slay the Spire 2: Multiplayer Collection**
 
 Earlier this year, I was fortunate to attend a talk at the inaugural PIGCON by MegaCrit's Ed Lu and Jose Pacio. The talk was about Slay the Spire 2, specifically the transition to Godot for their engine and implementation of multiplayer. It was fascinating to listen to, and it gave me the opportunity to shake their hands and let them know that it was exactly those two features that inspired me to mod a game for the first time.
 

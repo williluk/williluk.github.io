@@ -5,6 +5,8 @@ image: ../assets/images/port-ai-bugs.jpg
 description: A web based simulation of bugs optimizing their survival through improving their internal neural network.
 ---
 
+# **Machine Learning Evolution Simulation**
+
 This project hails from my first year at Oregon State University. I always loved open-ended assignments that allowed me to more deeply invest in my work, and this is a perfect example of what that yields. This website effectively uses a small engine I created in HTML/CSS and Javascript to simulate a group of little creatures eating food and multiplying. You can watch the creatures evolve over the course of about 10 minutes of executions. They pretty consistently discover "go fast" as their primary method, but over long enough runs I've observed them moving in waves to try and cover more ground.
 
 <p class="text-center">
