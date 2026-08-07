@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Research Assistant, Extended Reality Laboratory
+  from: 2024
+  to: 2025
+  description: I worked at OSU's Extended Reality Laboratory, developing VR/XR software to explore how interactivity and
+    immersion can make our technology more accessible, usable, and learnable. I worked on many projects on the
+    cutting edge, including a VR training simulator for pilots of tree harvesters, an AR tool providing AI-based
+    navigation and task guidance, and a web game to teach students about microelectronics (which I lead). My
+    work contributed to over 5 research papers or master's theses, including one which I co-authored. You can
+    access that publication [here](https://link.springer.com/epdf/10.1007/s42979-026-04905-w?sharing_token=5WlfW2Y5g96s2veqefU4ave4RwlQNchNByi7wbcMAY5-pFOSLuWiPMsoN_5_8w5CCnYwOwJKdV-wfi_5EmZn2pSAzI4EJKeL1m-VbWQOhqBWMvfGfJdRoH3niZuP00_v-R66bxzAwhP7J1I4h-yC6fTcqQ5w-YhxqHim_7ktfXo%3D).
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Oregon State University
+  from: 2022
+  to: 2025
+  description: I earned my degree in Applied Computer Science with a specialization in Simulation and Game Programming. 
+                I learned about everything from GLSL to Cloud Computing, Operating Systems to Animation. 
