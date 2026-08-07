@@ -1,7 +1,7 @@
 ---
 name: Indiscriminate
 tools: [Unity, C#, hand drawn]
-image: port-indiscriminate.jpg
+image: _projects/port-ai-bugs.jpg
 description: Old school boomer shooter with a highly variable weapon system and completely hand-made art and assets.
 ---
 There is a saying that all artists loath anything they made more than five years ago. Indiscriminate is as close to that as is possible for me, but I can't say that I loathe it. Of all the projects I've worked on, it probably represents the greatest density of learning and the most amount of sheer effective man-hours I've committed to anything. Sure, a scrappy 2.5D boomer shooter is a tad bit quant in hindsight, but I tend to look back at the totally hand-drawn art, simple but effective level design, and breadth of mechanics with an awe that I was capable of fitting it all together without any help.
