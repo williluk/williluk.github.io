@@ -1,7 +1,7 @@
 ---
 name: 3D Pixel Art Renderer
 tools: [Godot, Shaders]
-image: williluk.github.io/assets/images/port-pixel-art-renderer.jpg
+image: assets/profile.png
 description: A set of shaders and project level configs that yield beautiful crisp pixel art in a fully 3D scene.
 ---
 This was a small project I worked on while I was experimenting more in depth with the Godot Engine. The goal was to create a set of shaders that would turn simpler 3D environments into stellar pixel art. If you are a savvy member of the computer graphics world, you may recognize my emulation of the work of the brilliant [t3ssel8r](https://www.youtube.com/@t3ssel8r). On top of that, I'd certainly like to credit [this article by David Holland](https://www.davidhol.land/articles/3d-pixel-art-rendering/) and the excellent [videos by Dylearn](https://www.youtube.com/@Dylearn/videos) for documenting their journeys through this process.
