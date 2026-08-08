@@ -3,7 +3,7 @@ title: "Devlog #1: Orthographic God Rays In Godot"
 tags: [Godot, Shaders]
 style: fill
 color: primary
-description: 
+description: In this first devlog, I talk about how I implemented a simple shader for God Rays in Godot.
 ---
 
 # **Devlog #1: Orthographic God Rays In Godot**
