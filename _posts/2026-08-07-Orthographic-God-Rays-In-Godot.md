@@ -3,7 +3,7 @@ title: "Devlog #1: Orthographic God Rays In Godot"
 tags: [Godot, Shaders]
 style: fill
 color: primary
-description: Write post description here, or it will be the first 25 words of the post's body.
+description: 
 ---
 
 # **Devlog #1: Orthographic God Rays In Godot**
