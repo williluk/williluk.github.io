@@ -6,8 +6,6 @@ color: primary
 description: In this first devlog, I talk about how I implemented a simple shader for God Rays in Godot.
 ---
 
-# **Devlog #1: Orthographic God Rays In Godot**
-
 **Preamble**
 
 Hi. My name is Luke Williams, and I’m a game developer. Like many in my artistic world, I’ve decided to document my activities on my little corner of the globe-spanning billboard that is the Internet. I intend to cover whatever work that I’ve accomplished for my current project, ideally in a cleanly delineated and somewhat comprehensible format. Rather than spend ages explaining the state of this project and its high level design and goals… I won’t. You’ll get that information when I deem it relevant, so you are yet more at mercy to my impulsive nonsense. Enjoy your first dose, God Rays in Godot.
