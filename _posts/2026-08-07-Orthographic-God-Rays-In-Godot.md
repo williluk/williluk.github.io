@@ -6,15 +6,15 @@ color: primary
 description: In this first devlog, I talk about how I implemented a simple shader for God Rays in Godot.
 ---
 
-**Preamble**
+### **Preamble**
 
 Hi. My name is Luke Williams, and I’m a game developer. Like many in my artistic world, I’ve decided to document my activities on my little corner of the globe-spanning billboard that is the Internet. I intend to cover whatever work that I’ve accomplished for my current project, ideally in a cleanly delineated and somewhat comprehensible format. Rather than spend ages explaining the state of this project and its high level design and goals… I won’t. You’ll get that information when I deem it relevant, so you are yet more at mercy to my impulsive nonsense. Enjoy your first dose, God Rays in Godot.
 
-**Restrictions**
+### **Restrictions**
 
 The specifics of this method only work with an Orthographic camera. In theory, it should be possible to change the math just a bit to get it working with Perspective, but I have not tested it.
 
-**The Core Idea**
+### **The Core Idea**
 
 God rays are an effect created by intense light scattering through molecules in the air, creating a glow that sharply contrasts areas of shadow. My project’s art style is a nice 3D pixel art inspired by the brilliant t3ssel8r (check out [this article by David Holland](https://www.davidhol.land/articles/3d-pixel-art-rendering/)), and for me the god rays do so much to add a bit of depth back into the scene. Volumetrics are reeeeeally intensive, however, and so the particular implementation that I was interested in was a shell texturing technique described in the above David Holland article and in a Reddit post by [the amazing Dylearn](https://www.youtube.com/@Dylearn). It's procedural, meaning it doesn’t need to be set up for every scene, and it looks fantastic. This implementation should also work with pretty much any stylistic visual style, but keep in mind it’s only built to work with Directional Lights. Here is how it was described:
 
@@ -35,7 +35,7 @@ The part that confused me initially was where these quads were supposed to be po
 3. **The quads must fill the screen.** This one is less obvious, so allow me to explain. Our quads will be rotating to follow Rule #2, but given Rule #1 perfect alignment with the camera is not guaranteed. This means that there is potential for camera angles that are parallel or nearly parallel to the quad. If the plane is a static size, viewing the quad from these angles will give the user a great view of the edge of our plane, which completely breaks the effect. We’ll solve this by resizing the quad in our shader so that it's always big enough to prevent this from happening.
 With all that in mind, I was able to begin implementing.
 
-**Implementing**
+### **Implementing**
 
 I set up the quads as children of the camera with a brand-new shader, and getting the attenuation culling was super simple. From here, I had to figure out the position. Once I deduced our 3 Rules, I was able to figure out (look up) the mathematics required to get these planes in the proper position. Keep in mind that most of the math below is done in world space (I’ll talk about the important conversions at the end).
 
